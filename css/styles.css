@@ -3,25 +3,30 @@
 /***************/
 
 /* Color Palette */
-div .color-1 {
-   background: 48788D;
+.color-1 {
+    background: #48788D;
+    border: none;
 }
 
 .color-2 {
-    color: 9BC5DA;
+    background: #9BC5DA;
+    border: none;
 }
 
 
 .color-3 {
-    color: CDE7F5;
+    background: #CDE7F5;
+    border: none;
 }
 
 .color-4 {
-    color: B6C056;
+    background: #B6C056;
+    border: none;
 }
 
 .color-5 {
-    color: 6F7040;
+    background: #6F7040;
+    border: none;
 }
 
 /* Textures or Patterns*/
