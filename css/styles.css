@@ -61,7 +61,13 @@
 
 
 /* Typography */
+h1, h2, h3 {
+    font-family: 'Amatic SC', cursive;
+}
 
+p {
+    font-family: 'Josefin Slab', serif;
+}
 
 /* Forms */
 
