@@ -55,10 +55,24 @@
 }
 
 /* Imagery */
+.imagery-1, 
+.imagery-2, 
+.imagery-3, 
+.imagery-4, 
+.imagery-5 {
 
+    height: auto;
+    width: auto;
+    max-width: 300px;
+    display: inline-block;
+    margin: 10px 10px;
+    
+}
 
 /* Icons */
-
+.icon-1, .icon-2, .icon-3, .icon-4, .icon-5 {
+    border: none;
+}
 
 /* Typography */
 h1, h2, h3 {
@@ -76,3 +90,7 @@ p {
 
 
 /* Cards */
+
+body {
+    background: #DADADB;
+}
