@@ -83,6 +83,23 @@ p {
     font-family: 'Josefin Slab', serif;
 }
 
+.nav a {
+    text-decoration: none;
+    font-family: 'Josefin Slab', serif;
+    color: #6F7040;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+ul {
+list-style: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
 /* Forms */
 
 
